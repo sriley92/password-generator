@@ -5,3 +5,7 @@ Wrote Javascript prompts for upper and lowercase letters, numbers and special ch
 
 # deployed app link
 https://sriley92.github.io/password-generator
+
+
+#screenshot
+https://github.com/sriley92/SamanthaRiley-ProfessionalPortfolio
